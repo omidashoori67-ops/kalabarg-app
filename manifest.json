@@ -1,0 +1,14 @@
+
+{
+  "name": "کالابرگ دهک ۱ تا ۳",
+  "short_name": "کالابرگ",
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
